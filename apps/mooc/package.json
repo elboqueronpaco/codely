@@ -1,0 +1,16 @@
+{
+  "name": "@codely/mooc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@codely/design-system":"1.0.0",
+    "next-transpile-modules": "^9.1.0"
+  }
+}
