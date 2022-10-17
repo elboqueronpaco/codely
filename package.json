@@ -2,13 +2,16 @@
   "name": "src",
   "version": "0.1.0",
   "private": true,
+  "workspaces":[
+    "./app/*"
+  ],
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "dev": "yarn workspace @codely/mooc dev",
+    "build": "yarn workspace @codely/mooc build",
+    "start": "yarn workspace @codely/mooc start",
+    "lint": "yarn workspace @codely/mooc lint",
+    "storybook": "yarn workspace @codely/design-app storybook",
+    "build-storybook": "yarn workspace @codely/design-app build-storybook"
   },
   "dependencies": {
     "next": "12.3.1",
