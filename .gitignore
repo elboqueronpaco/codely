@@ -34,15 +34,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-apps/design-system/node_modules/.cache/storybook/babel/5eb89e8f8e3c03a5499144a119e82810.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/07b9b6241eb4f80804a320b220044ee4.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/9b7d4451bc054499a022bf96d54156b5.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/18e436558a4af74044bcb4c5fa4907ff.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/785a0e198a145b50187bb4645ff71525.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/990d908b6c6d5c2d3144e425b56a8cdb.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/4205e2888cd2c15ecedc9e79cbedf118.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/8752fef4d5e6ed899c467c660c8440ce.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/a80b114f02c9dc6af39dd8f7ad41378e.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/e3035a736fa09ddcb95c3a9888b3f415.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/f91ba005a0ec0fd9e521838c470740ba.json.gz
-apps/design-system/node_modules/.cache/storybook/babel/fce98237c4dccb5c4a6e1521370b8a8a.json.gz
